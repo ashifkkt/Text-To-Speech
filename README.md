@@ -31,7 +31,7 @@ This project demonstrates the use of the Web Speech API to convert text into spe
 - **CSS**: For styling the web page.
 - **JavaScript**: For implementing the text-to-speech functionality using the Web Speech API.
 
-## Getting Started
+# Getting Started
 
 1. **Clone the repository** to your local machine.
 2. **Open the `index.html` file** in a web browser.
